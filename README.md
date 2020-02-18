@@ -5,7 +5,7 @@ Loader styles are from [loading.io](https://loading.io/css/)<br>
 Accessible posts rows inspired by [inclusive-components.design](https://inclusive-components.design/cards/#theredundantclickevent)
 
 ## Live Demo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/71bb7c0e-b4bf-4ae7-b4fa-158ee3fd7451/deploy-status)](https://app.netlify.com/sites/jsonplaceholder-posts-react/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/71bb7c0e-b4bf-4ae7-b4fa-158ee3fd7451/deploy-status)](https://jsonplaceholder-posts-react.netlify.com)
 
 ## Time spent
 ~ 30 minutes for logic implementation<br>
