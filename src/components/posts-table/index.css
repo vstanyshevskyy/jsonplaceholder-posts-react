@@ -1,0 +1,34 @@
+.posts-table {
+  margin-top: 20px;
+}
+
+.posts-table__post-cell {
+  padding: 5px 10px;
+}
+
+.posts-table__post-row {
+  cursor: pointer;
+  animation: fadeUp .5s linear;
+}
+
+@keyframes fadeUp {
+  0% {
+    -webkit-transform: translate3d(0,100%,0);
+    opacity: 0;
+    transform: translate3d(0,100%,0);
+  }
+  
+  100% {
+    -webkit-transform: none;
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.posts-table__post-row:nth-child(even) {
+  background-color: #e5c786;
+}
+
+.posts-table__post-row:hover {
+  background-color: #f5daa0;
+}

@@ -1,0 +1,31 @@
+.navigation {
+  height: 50px;
+  line-height: 50px;
+  background-color:rgba(10, 10, 10, 0.9);
+  color: #fff;
+  font-size: 26px;
+  display: flex;
+  flex-direction: row;
+}
+
+.navigation__inner {
+  width: 100%;
+  max-width: 1140px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.navigation__title {
+  text-transform: uppercase;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.navigation__link,
+.navigation__link:visited {
+  color: #fff;
+}
+
+.navigation__link--active {
+  display: none;
+}
