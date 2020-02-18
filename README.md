@@ -4,11 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Loader styles are from [loading.io](https://loading.io/css/)<br>
 Accessible posts rows inspired by [inclusive-components.design](https://inclusive-components.design/cards/#theredundantclickevent)
 
+## Live Demo
+[![Netlify Status](https://api.netlify.com/api/v1/badges/71bb7c0e-b4bf-4ae7-b4fa-158ee3fd7451/deploy-status)](https://app.netlify.com/sites/jsonplaceholder-posts-react/deploys)
+
 ## Time spent
 ~ 30 minutes for logic implementation<br>
 ~ 40 minutes to make it look nice (CSS)<br>
 ~ 20 minutes to refactor and clean up code<br>
 ~ 5 minutes for README.md file
+~ 10 minutes for live demo setup
 
 ## Available Scripts
 
